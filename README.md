@@ -1,4 +1,7 @@
-### Hi there 👋
+![undefined - Imgur](https://user-images.githubusercontent.com/68806507/130419746-c6fc8dcd-cd34-46e1-8e7e-8f682651ef77.gif)
+
+
+<!--### Hi there 👋-->
 
 <!--
 **Clay8288/Clay8288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
