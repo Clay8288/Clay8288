@@ -3,6 +3,8 @@
 
 # Hi there :v:
 
+Welcome on my Github !
+
 ## About me...
 
 My name is Clelia, I'm a junior developper back-end.
