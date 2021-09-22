@@ -28,6 +28,6 @@ All experiences are welcome, whether it's with an apprenticeship or a job.
 
 ## Keep in touch ...
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/clelia-c/)
+[![Linkedin](https://img.shields.io/badge/linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clelia-c/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Clay8288)
+[![GitHub](https://img.shields.io/badge/github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clay8288)
