@@ -1,9 +1,7 @@
 ![undefined - Imgur](https://user-images.githubusercontent.com/68806507/130419746-c6fc8dcd-cd34-46e1-8e7e-8f682651ef77.gif)
 
 
-# Hi there 👋 :v:
-
-Welcome on my Github page.
+# Hi there :v:
 
 ## About me...
 
