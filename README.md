@@ -25,3 +25,9 @@ All experiences are welcome, whether it's with an apprenticeship or a job.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql&logoColor=dark)
 ![GIT](https://img.shields.io/badge/git-FF2D20?style=for-the-badge&logo=git&logoColor=white)
+
+## Keep in touch ...
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/clelia-c/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Clay8288)
