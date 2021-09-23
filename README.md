@@ -12,7 +12,7 @@ My name is Clelia, I'm a junior developper back-end.
 After nearly 10 years in business travel, I decided to come back to my first love...the code...
 I first started by self-learning thanks to [Grafikart](https://grafikart.fr/) and [Javascript de zéro](https://www.javascriptdezero.com/), then I decided to undertake a training with the [O'clock school](https://oclock.io/) which allowed me to discover my affinity for the back-end.
 
-I am particularly interested in good development practices and wish to continue to train with experienced developers who are willing to share their knowledge. 
+I wish to continue to train with experienced developers who are willing to share their knowledge. 
 That's why, I decided to join the [What The Fabrik](https://www.whatthefabrik.fr/) Discord where I am a moderator. 
 All experiences are welcome, whether it's with an apprenticeship or a job. 
 
