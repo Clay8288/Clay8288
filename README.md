@@ -27,7 +27,7 @@ All experiences are welcome, whether it's with an apprenticeship or a job.
 ![GIT](https://img.shields.io/badge/git-FF2D20?style=for-the-badge&logo=git&logoColor=white)
 
 ## I’m learning ...
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Keep in touch ...
 
