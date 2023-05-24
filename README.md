@@ -3,19 +3,6 @@
 
 # Hi there :v:
 
-Welcome on my Github !
-
-## About me...
-
-My name is Clelia, I'm a junior developper back-end.
-
-After nearly 10 years in business travel, I decided to come back to my first love...the code...
-I first started by self-learning thanks to [Grafikart](https://grafikart.fr/) and [Javascript de zéro](https://www.javascriptdezero.com/), then I decided to undertake a training with the [O'clock school](https://oclock.io/) which allowed me to discover my affinity for the back-end.
-
-I wish to continue to train with experienced developers who are willing to share their knowledge. 
-That's why, I decided to join the [What The Fabrik](https://www.whatthefabrik.fr/) Discord where I am a moderator. 
-All experiences are welcome, whether it's with an apprenticeship or a job. 
-
 ## I’m currently working with ...
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,11 +15,5 @@ All experiences are welcome, whether it's with an apprenticeship or a job.
 
 ## I’m learning ...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/golang-67d0de?style=for-the-badge&logo=go&logoColor=white)
-
-## Keep in touch ...
-
-[![Linkedin](https://img.shields.io/badge/linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clelia-c/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clay8288)
